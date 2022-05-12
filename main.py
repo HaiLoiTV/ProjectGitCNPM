@@ -1,3 +1,3 @@
 def main():
     print("hello world")
-    print("XIn chao ban Loi")#user 2 sua 
+    print("hello world: ^_^")//User1 them dong ghi chu
